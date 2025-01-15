@@ -4,5 +4,6 @@
 
 "A Tour of C++", Bjarne Stroustrup
 "The Design and Evolution of C++", Bjarne Stroustrup
+"The C++ Programming Language", Bjarne Stroustrup
 "Programming -- Principles and Practice Using C++", Bjarne Stroustrup
 
