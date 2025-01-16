@@ -34,3 +34,7 @@
 
 "C++ Concurrency in Action", by Anthony Williams
 
+## Operation Systems
+
+"Modern Operating Systems", by Andrew Tanenbaum, Herbert Bos\
+"Digital Design And Computer Architecture", by David Money Harris, Sarah L. Harris
