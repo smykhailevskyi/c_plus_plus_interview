@@ -1,4 +1,4 @@
-# Books for C++ developer you should read
+# Books for C++ and C developers
 
 **!** A lot of books have several editions. Will be better to use the last one.
 
@@ -22,5 +22,15 @@
 "More Exceptional C++: 40 New Engineering Puzzles, Programming Problems, and Solutions", by Herb Sutter\
 "Exceptional C++ Style: 40 New Engineering Puzzles, Programming Problems, and Solutions", by Herb Sutter
 
+"Concurrency with Modern C++", by Rainer Grimm\
+"C++ Core Guidelines: Best Practices for Modern C++", by Rainer Grimm\
+"The C++20 Standart Library", by Rainer Grimm\
+"C++20 Get the Details", by Rainer Grimm
 
+"Effective STL", by Scott Meyers\
+"Effective C++", by Scott Meyers\
+"More Effective C++", by Scott Meyers\
+"Effective Modern C++", by Scott Meyers
+
+"C++ Concurrency in Action", by Anthony Williams
 
