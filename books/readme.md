@@ -2,6 +2,12 @@
 
 **!** A lot of books have several editions. Will be better to use the last one.
 
+## C language
+
+"The C Programming language", by Brian W. Kernighan, Dennis M. Ritchie 
+
+## C++ language
+
 "A Tour of C++", by Bjarne Stroustrup\
 "The Design and Evolution of C++", by Bjarne Stroustrup\
 "The C++ Programming Language", by Bjarne Stroustrup\
