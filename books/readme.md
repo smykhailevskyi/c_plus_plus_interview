@@ -4,7 +4,8 @@
 
 ## Algorithm and Data Structure
 
-"The Algorithm Design Manual", by Steven S S. Skiena
+"The Algorithm Design Manual", by Steven S S. Skiena\
+"Introduction to Algorithms", by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
 
 ## C language
 
