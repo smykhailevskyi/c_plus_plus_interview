@@ -2,6 +2,10 @@
 
 **!** A lot of books have several editions. Will be better to use the last one.
 
+## Algorithm and Data Structure
+
+"The Algorithm Design Manual", by Steven S S. Skiena
+
 ## C language
 
 "The C Programming language", by Brian W. Kernighan, Dennis M. Ritchie 
