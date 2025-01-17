@@ -1,0 +1,3 @@
+# My interview questions
+
+We write a program as a text but the processor does not understand the text and can’t run it in the text format. What does happen and how does our program transforms to the processor can run it?
