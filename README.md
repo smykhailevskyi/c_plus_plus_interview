@@ -7,3 +7,5 @@ A repository for all things for preparation for C and C++ interview
 
 [Algorithms](https://github.com/smykhailevskyi/c_plus_plus_interview/blob/main/algo/readme.md)
 
+[Interview Questions](https://github.com/smykhailevskyi/c_plus_plus_interview/blob/main/interview_questions/readme.md)
+
