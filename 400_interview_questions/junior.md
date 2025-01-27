@@ -14,3 +14,12 @@
 11. What do you think why do we use the unit tests?
 12. What are the difference between unit and integration testing?
 13. What is Test Driven Development (TDD)?
+
+# Metaprogramming
+14. What is a class template? What is a function templates?
+15. What are the constructors? Which types of the constructors do you know?
+16. Can a constructor be a function templates?
+17. Can a virtual function be templated?
+18. What is a template instantiation?
+19. What is template specialization? What is a partial template specialization?
+20. Tell me, please, how do you implement the template classes in a .cpp files?
