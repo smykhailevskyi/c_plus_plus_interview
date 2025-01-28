@@ -23,3 +23,17 @@
 18. What is a template instantiation?
 19. What is template specialization? What is a partial template specialization?
 20. Tell me, please, how do you implement the template classes in a .cpp files?
+
+# Preprocessor and compilation
+21. Tell me, please, how does the process of compiling .cpp files into a binary file work?
+22. What is the preprocessor?
+23. How does the preprocessor work?
+24. Which commands of the preprocessor do you know?
+25. How does the #include directive work?
+26. How does the #define directive work?
+27. What does the linker link?
+28. What is the compiler optimisation?
+29. What is the compiler flag?
+30. How can we prevent the header file from being included twice?
+31. What does the #include directive do?
+32. How do the macros works?
