@@ -6,4 +6,4 @@ Design LRU cache [Leetcode task 146](https://leetcode.com/problems/lru-cache/des
 Merge two sorted lists [Leetcode task 21](https://leetcode.com/problems/merge-two-sorted-lists/description/) (Easy level)\
 Merge Intervals [Leetcode task 56](https://leetcode.com/problems/merge-intervals/description/) (Medium level)\
 Reverse Linked List [Leetcode task 206](https://leetcode.com/problems/reverse-linked-list/description/) (Easy level)\
-Remove all occurrences of a string [Leetcode task 1910](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) (Medium level)
+Remove all occurrences of a substring [Leetcode task 1910](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) (Medium level)
