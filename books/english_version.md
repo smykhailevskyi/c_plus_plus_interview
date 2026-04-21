@@ -37,5 +37,6 @@
 
 ## Operation Systems
 
+"UNIX: A History and a Memoir", by Brian W. Kernighan\
 "Modern Operating Systems", by Andrew Tanenbaum, Herbert Bos\
 "Digital Design And Computer Architecture", by David Money Harris, Sarah L. Harris
