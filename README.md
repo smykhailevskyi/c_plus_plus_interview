@@ -9,4 +9,4 @@ A repository for all things for preparation for C and C++ interview
 
 [Algorithms](https://github.com/smykhailevskyi/c_plus_plus_interview/blob/main/algo/)
 
-[Interview Questions](https://github.com/smykhailevskyi/c_plus_plus_interview/blob/main/my_interview_questions/)
+[My Interview Questions](https://github.com/smykhailevskyi/c_plus_plus_interview/blob/main/my_interview_questions/)
