@@ -3,7 +3,7 @@
 In this repository, I collect questions and learning materials related to C and C++.
 
 A list of questions covering different skill levels (junior, middle, senior) from a Ukrainian website [**dou.ua**](https://dou.ua).  
-[400 C/C++ interview questions from dou.ua](https://github.com/smykhailevskyi/c_plus_plus_interview/blob/main/400_interview_questions/)
+[400 C/C++ interview questions from dou.ua](https://github.com/smykhailevskyi/c_plus_plus_interview/blob/main/400-c++-interview_questions/)
 
 Books I believe every C/C++ developer should read  
 [C/C++ books](https://github.com/smykhailevskyi/c_plus_plus_interview/blob/main/books/)
@@ -12,13 +12,13 @@ A collection of algorithms for coding interview preparation or self-study
 [Algorithms](https://github.com/smykhailevskyi/c_plus_plus_interview/blob/main/algo/)
 
 A collection of C and C++ interview questions I found on the internet.  
-[Interview Questions](https://github.com/smykhailevskyi/c_plus_plus_interview/blob/main/interview_questions/)
+[Interview Questions](https://github.com/smykhailevskyi/c_plus_plus_interview/blob/main/interview-questions/)
 
 # C++
 В цьому репозіторії зібрані питання по С та С++ мовам програмування, які я задавав та задаю на співбесідах, мені задавали та які я знашов на просторах інтернету, не залежно від вашого відношення до цих питань, їх доцільності або актуальності. Маю надію, що цей список допоможе вам краще підготуватися до співбесіди або спонукає до подальшого вивчення мови у разі, якщо відразу не відповили на деякі питання.
 
 Багато питань по С, С++, які писали діючі інтерв'юєри, зі збірки питань для інтерв'ю, яка вийшла на сайті [**dou.ua**](https://dou.ua).\
-[400 C/C++ interview questions](https://github.com/smykhailevskyi/c_plus_plus_interview/blob/main/400_interview_questions/)
+[400 C/C++ interview questions](https://github.com/smykhailevskyi/c_plus_plus_interview/blob/main/400-c++-interview-questions/)
 
 Книги, які я вважаю, мають бути must read для кожного С, С++ програміста.\
 [C/C++ books](https://github.com/smykhailevskyi/c_plus_plus_interview/blob/main/books/)
@@ -27,4 +27,4 @@ A collection of C and C++ interview questions I found on the internet.
 [Algorithms](https://github.com/smykhailevskyi/c_plus_plus_interview/blob/main/algo/)
 
 Питання, які я задавав аба задаю на інтерв'ю на позицію С, C++ developer. Вони можуть бути різними для рівня, на який претендує людина (junior, middle, sinior, lead, etc.), або однакові для кожного і в цьому випадку цікавить саме глубина відповіді. Зазвичай останні становлять більшість.\
-[Interview Questions](https://github.com/smykhailevskyi/c_plus_plus_interview/blob/main/interview_questions/)
+[Interview Questions](https://github.com/smykhailevskyi/c_plus_plus_interview/blob/main/interview-questions/)
