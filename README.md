@@ -3,7 +3,7 @@
 In this repository, I collect questions and learning materials related to C and C++.
 
 A list of questions covering different skill levels (junior, middle, senior) from a Ukrainian website [**dou.ua**](https://dou.ua).  
-[400 C/C++ interview questions from dou.ua](https://github.com/smykhailevskyi/c_plus_plus_interview/blob/main/400-c++-interview-questions/)
+[400 C/C++ interview questions from dou.ua](https://github.com/smykhailevskyi/c_plus_plus_interview/blob/main/400-c++-interview-questions/questions.md)
 
 Books I believe every C/C++ developer should read  
 [C/C++ books](https://github.com/smykhailevskyi/c_plus_plus_interview/blob/main/books/)
