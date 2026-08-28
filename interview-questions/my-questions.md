@@ -6,7 +6,11 @@ Here we can deep dive into history of the computer science, talk about different
 ## Theoretical questions
 What is a byte?
 
-We write a program as a text but the processor does not understand the text and can’t run it in the text format. What does happen and how does our program is transformed to the processor can run it?
+We write a program as a text but the processor does not understand the text and can’t run it in the text format. What does happen and how does our program is transformed to the processor can run it?  
+
+How are lambdas implemented at the language level in C++?  
+
+What is the difference between a lambda expression and a closure object?  
 
 ## Practical tasks
 Please, count how many time each word is in the file?
